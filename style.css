@@ -6,11 +6,29 @@ body {
 
 #head{
     text-align: center;
+    padding-top: 12px;
+    font-size: 27px;
+    margin-top: 20px;
+}
+
+#head, p{
+    font-size: 18px;
 }
 
 figure{
     margin: auto;
-    width: 72%;
+    background-color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    margin: 20px 12px;
+}
+
+img{
+    max-width: 1000px;
+    height: auto;
+    background-color: white;
+    margin: 20px 102px 30px 144px;
+    padding: 14px 60px 0px 6px;
 }
 
 h3{
@@ -23,3 +41,27 @@ h3{
     line-height: 1.8;
 }
 
+#last-para{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 40px;
+    padding-top: 45px;
+}
+
+main{
+    background-color: #e9eaecef;
+    margin: 20px 8px 18px 8px;
+    border-radius: 4px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+
+}
+ .div-img{
+    background-color: white;
+    padding-bottom: 20px;
+    margin: 20px 12px;
+ }
+
+ li{
+    padding-bottom: 17px;
+ }
